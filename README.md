@@ -24,5 +24,4 @@ Example-
 CMD : nohup python3 -u reddit_network_sentiment_to_predict_cryptocurrency_price_movement_bitcoin.py &> nohupbitcoin.out &
 
 
-GITHUB LINK: 
-https://github.com/krishnakashiv/Reddit-Network-Analysis-
+
